@@ -6,6 +6,7 @@ Here is a list of tech conferences I would love to attend or speak at:
 | Scala World | Lake District | 31 August 2019 |
 | Lambadale | London | 21 September 2019 |
 | ViewSource | Amsterdam | 30 Sep - 1 Aug |
+| SREcon | Dublin | 2-4 Oct |
 | Mozfest | London | 25-27 Oct |
 | Rustfest | Barcelona | 9-10 Nov |
 | RubyConf | Nashville | 18-20 Nov 2019 |
