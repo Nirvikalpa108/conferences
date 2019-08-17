@@ -4,7 +4,7 @@ Here is a list of tech conferences I would love to attend or speak at:
 | Name | Location | Date |
 | :--- | :--- | :--- |
 | [Scala World](https://scala.world) | Lake District | 31 August 2019 |
-| Lambadale | London | 21 September 2019 |
+| [LambdAle](https://lambdale.org/) | London | 21 September 2019 |
 | [ViewSource](https://2019.viewsourceconf.org) | Amsterdam | 30 Sep - 1 Aug |
 | [Mozfest](https://www.mozillafestival.org) | London | 25-27 Oct |
 | [Rustfest](https://barcelona.rustfest.eu) | Barcelona | 9-10 Nov |
@@ -18,3 +18,4 @@ Here is a list of tech conferences I would love to attend or speak at:
 | [Euruko](https://euruko2019.org) | Helsinki | Summer 2020 |
 | [Brighton Ruby](https://brightonruby.com) | Brighton | Summer 2020 |
 | [Lead Dev](https://theleaddeveloper.com) | London | Summer 2020 |
+
