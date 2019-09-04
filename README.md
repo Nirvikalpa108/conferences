@@ -8,9 +8,12 @@ Here is a list of tech conferences I would love to attend or speak at:
 | [ViewSource](https://2019.viewsourceconf.org) | Amsterdam | 30 Sep - 1 Aug |
 | [Mozfest](https://www.mozillafestival.org) | London | 25-27 Oct |
 | [Rustfest](https://barcelona.rustfest.eu) | Barcelona | 9-10 Nov |
+| [AI-Expo](https://www.ai-expo.net/northamerica/) | Silicon Valley | 13-14 Nov 2019 |
 | [RubyConf](https://rubyconf.org) | Nashville | 18-20 Nov 2019 |
 | [ffconf](https://ffconf.org) | Brighton | November 2019 |
+| [dotJS 2019](https://www.dotjs.io/) | Paris | 5-6 December 2019 |
 | [You Got This](http://yougotthis.io) | Birmingham | 18 Jan 2020 |
+| [Developer Week](https://www.developerweek.com/) | SF BAY Area | 12 -16 Feb 2020 |
 | [FOSDEM](https://fosdem.org/2020/) | Brussels | Feb 2020 |
 | [Afro Tech Fest](https://www.afrotechfest.co.uk) | London | April 2020 |
 | [RailsConf](https://railsconf.com) | USA | Spring 2020 |
@@ -18,4 +21,3 @@ Here is a list of tech conferences I would love to attend or speak at:
 | [Euruko](https://euruko2019.org) | Helsinki | Summer 2020 |
 | [Brighton Ruby](https://brightonruby.com) | Brighton | Summer 2020 |
 | [Lead Dev](https://theleaddeveloper.com) | London | Summer 2020 |
-
