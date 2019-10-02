@@ -18,4 +18,4 @@ Here is a list of tech conferences I would love to attend or speak at:
 | [Euruko](https://euruko2019.org) | Helsinki | Summer 2020 |
 | [Brighton Ruby](https://brightonruby.com) | Brighton | Summer 2020 |
 | [Lead Dev](https://theleaddeveloper.com) | London | Summer 2020 |
-
+| [PyConIndia](https://in.pycon.org/2019/) | Chennai | october 2019 |
